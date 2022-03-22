@@ -1,0 +1,28 @@
+/* The * means "all elements" (a universal selector), so we are setting all elements to have zero margins, and 
+zero padding, thus making them look the same in all browsers. */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+  color: white;
+  font-family: "Poppins", sans-serif;
+  min-height: 100vh;
+}
+
+h1 {
+  margin: 32px 0;
+  color: black;
+  font-size: 24px;
+}
+
+h3 {
+  margin: 32px 0;
+  color: purple;
+  font-size: 24px;
+  margin-left: "20px";
+}
