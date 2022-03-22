@@ -11,7 +11,16 @@ This was my first project while learning React (popular JavaScript library for b
 - User can edit a task that is modify subject and add/remove tags after a task has been created
 
 #### HOW TO RUN THE PROJECT:
-- 
+- Clone the repository
+- Open terminal and navigate to the directory where you cloned the repository
+- Run below command to install required dependencies including node_modules folder
+> npm install
+- Run below command to run the application on the local server
+> npm start
+
+You should see the following on the front end in your default browser window:
+
+
 
   
 
