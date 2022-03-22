@@ -20,7 +20,5 @@ This was my first project while learning React (popular JavaScript library for b
 
 You should see the following on the front end in your default browser window:
 
-
-
-  
+  ![Screenshot 2022-03-22 at 1 49 44 PM](https://user-images.githubusercontent.com/62177024/159573809-82f52430-430a-4755-bdb8-bc7b514a0d35.png)
 
